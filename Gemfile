@@ -16,3 +16,6 @@ gem "middleman-livereload", :github => "middleman/middleman-livereload"
 gem "bitters"
 gem "bourbon"
 gem "neat"
+
+# For article summaries
+gem "nokogiri"
