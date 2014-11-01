@@ -1,0 +1,14 @@
+nav {
+  border-bottom: 1px solid $base-border-color;
+  margin-bottom: em(20);
+  background: #000;
+  h1 {
+    text-align: center;
+    margin-bottom: em(6);
+  }
+}
+
+.blog-title {
+  text-align: center;
+  font-size: em(36);
+}
