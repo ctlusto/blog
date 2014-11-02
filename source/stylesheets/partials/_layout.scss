@@ -4,6 +4,7 @@ body {
 
 #main {
     @include outer-container;
+    margin-bottom: em(50);
 }
 
 .footnotes {
