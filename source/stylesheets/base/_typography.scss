@@ -72,7 +72,8 @@ hr {
 
 img,
 picture {
-  margin: 0;
+  display: block;
+  margin: 0 auto;
   max-width: 100%;
 }
 
