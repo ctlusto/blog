@@ -2,7 +2,7 @@
 # Blog settings
 ###
 
-# Time.zone = "UTC"
+Time.zone = "UTC - 5:00"
 
 activate :blog do |blog|
   # This will add a prefix to all links, template references and source paths
@@ -83,6 +83,10 @@ set :css_dir, 'stylesheets'
 set :js_dir, 'javascripts'
 
 set :images_dir, 'images'
+
+set :haml, { :ugly => true, :format => :html5 }
+
+set :markdown, :fenced_code_blocks => true, :smartypants => true
 
 # Each post gets compiled as the index.html file in its own directory, for prettier URLs
 activate :directory_indexes
