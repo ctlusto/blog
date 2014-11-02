@@ -6,6 +6,9 @@
     <title>math pun<%= ' - ' + current_article.title unless current_article.nil? %></title>
     <%= feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "Atom Feed" %>
     <%= stylesheet_link_tag "all" %>
+    <% if current_article and current_article.data.custom_js %>
+    <link rel="stylesheet" href=<%= "/custom_assets/#{current_article.data.custom_css}.css" %>></link>
+    <% end %>
     <link href='http://fonts.googleapis.com/css?family=PT+Sans' rel='stylesheet' type='text/css'>
   </head>
   <body>
@@ -18,6 +21,9 @@
     </div>
 
     <%= javascript_include_tag "all" %>
+    <% if current_article and current_article.data.custom_js %>
+    <script src=<%= "/custom_assets/#{current_article.data.custom_js}.js" %>></script>
+    <% end %>
 
   </body>
 </html>

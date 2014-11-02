@@ -1,8 +1,7 @@
 ---
-title: Just Anoter Sample
+title: Yet Anoter Sample
 date: 2012-01-03
 tags: example
-custom_js: sample
 custom_css: sample
 ---
 
