@@ -2,7 +2,7 @@
 # Blog settings
 ###
 
-Time.zone = "UTC - 5:00"
+# Time.zone = "UTC"
 
 activate :blog do |blog|
   # This will add a prefix to all links, template references and source paths
