@@ -8,4 +8,4 @@ This is what I look like when I'm holding a tiny frog:
 
 ---
 
-[^1]:Descended from the Latin *participare* and meaning, literally, "sharing in." I think that's nice. The concept of participation&mdash;especially with respect to handwringing about Millenial coddling, youth soccer trophies, etc.&mdash;gets a lot of abuse. But in its bones it's really a lovely idea.
+[^1]:Descended from the Latin *participare* and meaning, literally, "sharing in." I think that's nice. The concept of participation as a personal goal gets [insert here all sorts of publicly-fashionable handwringing over Millenial coddling, youth soccer trophies, etc.] rather a lot of abuse. But in its bones it's really a lovely idea.
