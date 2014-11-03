@@ -2,6 +2,7 @@
 title: The Fault in Our Hashtags
 date: 2014-11-02 21:44 UTC
 tags: common core, ccss
+summary: How language is hampering our discussion around Common Core.
 ---
 
 I'm [on record][1] claiming that people would stop freaking out about the Common Core if they'd just sit down for a few hours to read the actual text READMORE of the standards. So are some [other, smarter people][2]. For those who have spent a little time nose-deep in the documentation, much of the negative reaction swirling in the [#StopCommonCore][3] wind is difficult even to parse.
