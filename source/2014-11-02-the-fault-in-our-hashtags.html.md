@@ -5,6 +5,8 @@ tags: common core, ccss
 summary: How language is hampering our discussion around Common Core.
 ---
 
+# The Fault in Our Hashtags
+
 I'm [on record][1] claiming that people would stop freaking out about the Common Core if they'd just sit down for a few hours to read the actual text READMORE of the standards. So are some [other, smarter people][2]. For those who have spent a little time nose-deep in the documentation, much of the negative reaction swirling in the [#StopCommonCore][3] wind is difficult even to parse.
 
 It's hard to muster empathy for a position that opposes, e.g., having students ["look for and make use of structure"][4] in their work. I'm personally unable to reconstruct the neural state that produces disgust in response to an eighth-grader learning that [parallel lines are taken to parallel lines][5] under rigid transformation. At nose-altitude, the standards seem as though they ought to be either (in the case of the [SMP][6]) uncontroversially representative of sound mathematical thinking, or (in the case of the [content standards][7]) so mundane as to be almost invisible to anyone not deeply invested in the nuances of domain-specific pedagogy.[^1]

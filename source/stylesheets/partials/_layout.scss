@@ -7,8 +7,12 @@ body {
     @include outer-container;
     margin-bottom: em(50);
     background-color: #fff;
-    padding: em(50);
+    padding: em(50) em(100);
     box-shadow: 0 2px 4px darken($base-background-color, 10);
+
+    h1 {
+      margin-bottom: em(10);
+    }
 }
 
 h6 {
