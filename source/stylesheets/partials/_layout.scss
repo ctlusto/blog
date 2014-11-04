@@ -11,6 +11,12 @@ body {
     box-shadow: 0 2px 4px darken($base-background-color, 10);
 }
 
+h6 {
+  margin-left: em(-14);
+  line-height: $base-line-height * 1.5;
+  margin-top: em(40);
+}
+
 .footnotes {
     font-size: 0.8em;
     ol {
@@ -20,10 +26,14 @@ body {
     }
 }
 
-h6 {
-    background: $base-border-color;
+.page-heading {
+  text-align: center;
+  color: lighten($base-font-color, 30);
+  margin-bottom: em(10);
+  font-size: $h1-font-size * 1.3;
 }
 
+// Pagination stuff
 .pagination {
   $pagination-border-color: $base-border-color;
   $pagination-border: 1px solid $pagination-border-color;
@@ -75,3 +85,4 @@ h6 {
     }
   }
 }
+// End pagination stuff

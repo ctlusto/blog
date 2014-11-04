@@ -11,7 +11,7 @@ It's hard to muster empathy for a position that opposes, e.g., having students [
 
 But we're[^2] making a category mistake, and it's eroding the opportunity for productive conversation
 
-###### Lossy Compression
+###### &sect; Lossy Compression
 
 The CCSS-M comprise a body of ideas that's approximately apolitical,[^3] but of course the system that produced them is entirely not. And it's precisely that system for which the most vitriolic dissent has been reserved. The problem is as simple as it is frustrating: the CCSS-M have become a symbol of the apparatus that begat them, which changes the rules of discourse in important ways. Because once a thing begins to signify, once its status as thing-as-such is subsumed under a figurative mantle, its prior, literal nature loses its salience&mdash;at least in the prevailing context.
 
@@ -23,7 +23,7 @@ When we started having conversations about the CCSS-M, we were free to argue abo
 
 But then one day we looked up from our desks to find that the standards had become a Thing.  Which isn't necessarily so awful. It seems fair that Things should be subject to debate in the same way things are. Except that now it's much harder to figure out who the hell is talking about what, and basically everybody is losing his or her mind.
 
-###### *Exempli Gratia*
+###### &sect; *Exempli Gratia*
 
 Here's one pseudorandom example to help illustrate the multivalence of our joint misery.  You[^4] have posted a picture of a multi-digit multiplication problem that someone has solved using partial products, and you've included the caption: *What the fuck?!? This is why we need to #StopCommonCore!!!!!!1*  And now I, as someone who takes issue with your point(s) and wants to engage, have to go through the following exercise, which is too complex and nonlinear to diagram faithfully:
 
@@ -31,7 +31,7 @@ On what level does your *WTF* exist? Is it rooted in mathematical confusion? If 
 
 Okay, so that's bad enough. It's all very tedious and based on error-prone inference, but at least it's a thing-level response to a thing-level complaint. But what if your WTF instead exists on the Thing plane? Then your language is actually a coded argument about the CCSS-M-as-symbol, which in your mind likely represents some subset of the following: corporate cronyism, federal overreach, imposed parental obsolescence, religious intolerance, and, depending on your particular bent, either intellectual elitism or vacuity. Now we're both in a terrible position. For one, nothing I say about any of those things[^things] will affect you. At all. Worse, if I misinterpret the intent of your symbolic language and respond instead to its surface content&mdash;which is, after all, my wheelhouse&mdash;any thing-level response I might give is going to sound patronizing or deflective or willfully obtuse. And bingo: we officially have ourselves an unproductive exchange. This is the cringe-inducing case in which we find ourselves too often, especially in the bowels of Twitter or the Comments Section, where nuance gets burned for server fuel.
 
-###### Salvage
+###### &sect; Salvage
 
 If you consider the CCSS-M as a literary document, you can divide the pro- and anti- camps roughly along critical lines. The supporters tend to take the view that extra-textual information is at best irrelevant,[^7] and they're annoyed that the anti- folks are not only falling victim to, but are actively systematizing into rhetorical pillars, both the Intentional and Affective fallacies. The detractors tend to take the view that the authorial/emotive/social/political/historical/etc. context is in fact inseparable from the document, and they're miffed that the pro- folks are essentially dismissing information that deeply informs, if not flatly supersedes, the text itself.
 

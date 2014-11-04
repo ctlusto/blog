@@ -1,4 +1,4 @@
-# About
+<h1 class="page-heading">{about}</h1>
 
 I'm currently a mathematical apologist and curriculum developer at [Mathalicious](www.mathalicious.com), a fantastic little company that's rewriting middle and high school math around real-world topics and helping to morph students' daily experiences with math into daily experiences with the *world*, through math. Like many great mathematicians, I spent I spent a significant part of my professional life as an artillery officer. *Un*like many great mathematicians, I didn't go on to become a great mathematician. I went on to teach [high school in Minneapolis](www.slpschools.org). I occasionally write tidbits about teaching, math, teaching math, and coding for the purpose of teaching math. I'm also an enthusiastic [#MTBoS](www.twitter.com/hashtag/mtbos?src=hash) participant[^1] on Twitter as [@Lustomatical](www.twitter.com/lustomatical).
 
