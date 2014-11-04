@@ -113,14 +113,14 @@
   }
 
   &:hover {
-    background-color: $card-hover-background;
+    background-color: $card-background;
     
     .card-image img {
       background: $card-image-hover-background;
     }
   
     .card-header {
-      background-color: $card-hover-background;
+      background-color: lighten($blue, 40);
     }
   }
 
