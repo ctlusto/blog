@@ -6,10 +6,12 @@
     <title>math pun<%= ' - ' + current_article.title unless current_article.nil? %></title>
     <%= feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "Atom Feed" %>
     <%= stylesheet_link_tag "all" %>
-    <% if current_article and current_article.data.custom_js %>
-    <link rel="stylesheet" href=<%= "/custom_assets/#{current_article.data.custom_css}.css" %>></link>
+    <% if current_article and current_article.data.custom_css %>
+      <link rel="stylesheet" href=<%= "/custom_assets/#{current_article.data.custom_css}.css" %>></link>
     <% end %>
     <link href='http://fonts.googleapis.com/css?family=PT+Sans' rel='stylesheet' type='text/css'>
+    <% third_parties = {"desmos" => "https://www.desmos.com/api/v0.4/calculator.js?apiKey=dcb31709b452b1cf9dc26972add0fda6",
+      "physics" => "/custom_assets/physics.min.js"} %>
   </head>
   <body>
 
@@ -20,8 +22,18 @@
     </div>
 
     <%= javascript_include_tag "all" %>
-    <% if current_article and current_article.data.custom_js %>
-    <script src=<%= "/custom_assets/#{current_article.data.custom_js}.js" %>></script>
+    <% if current_article && current_article.data.custom_js %>
+      <script src=<%= "/custom_assets/#{current_article.data.custom_js}.js" %>></script>
+    <% end %>
+
+    <% if current_page && current_page.data.third_party_tools %>
+      <% current_page.data.third_party_tools.each do |tool| %>
+        <%= javascript_include_tag third_parties[tool] %>
+      <% end %>
+    <% end %>
+
+    <% if current_page && current_page.data.custom_js %>
+      <script src=<%= "/custom_assets/#{current_page.data.custom_js}.js" %>></script>
     <% end %>
 
   </body>
