@@ -23,7 +23,7 @@ $(function() {
 
     calc.setExpressions([
         {id: 'mult', latex: 'a=1'},
-        {id: 'sin-fam', latex: '\\left[1...5\\right]\\sin(ax)', color: Desmos.Colors.BLUE}
+        {id: 'sin-fam', latex: '\\left[1...5\\right]\\sin(ax)', color: 'rgba(79, 129, 189, 0.4)'}
     ]);
 
     $document.mousemove(function(evt) {
