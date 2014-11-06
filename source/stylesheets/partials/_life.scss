@@ -1,7 +1,11 @@
-#world {
+#life {
     position: absolute;
     background: #fff;
     top: 0;
     left: 0;
     z-index: -1;
+
+    rect {
+        opacity: 0.1;
+    }
 }
