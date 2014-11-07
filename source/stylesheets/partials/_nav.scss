@@ -1,6 +1,7 @@
 header.navigation {
   $navigation-padding: 1em;
-  $navigation-background: $dark-gray;
+  // $navigation-background: $dark-gray;
+  $navigation-background: #585863;
   $navigation-color: transparentize(white, 0.3);
   $navigation-color-hover: white;
   $navigation-height: 60px;
@@ -19,14 +20,24 @@ header.navigation {
   height: $navigation-height;
   width: 100%;
   z-index: 999;
-  margin-bottom: em(20);
 
   .navigation-wrapper {
     @include clearfix;
-    // @include outer-container;
-    margin-left: em(10);
+    @include outer-container;
     position: relative;
     z-index: 9999;
+  }
+
+  .logo {
+    float: left;    
+    max-height: $navigation-height;
+    padding-left: $navigation-padding;
+    padding-right: 2em;
+
+    img {
+      max-height: $navigation-height;
+      padding: .8em 0;
+    }
   }
 
   // Mobile view

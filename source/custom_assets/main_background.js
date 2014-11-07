@@ -1,19 +1,27 @@
 $(function() {
 
-    var $main = $('#main');
-    $main.append("<div id='life'></div>");
-    $main.css('backgroundColor', 'transparent');
+    var $hero = $('#hero');
 
-    var $life = $('#life');
-    $life.width($main.outerWidth()).height($main.outerHeight());
-    $life.css('opacity', 0.75);
+    var setBG = function() {
+        $('#life').remove();
+        $hero.append("<div id='life'></div>");
+        $hero.css('backgroundColor', 'transparent');
 
-    var life = new Life({
-        elt: '#life',
-        width: $life.width(),
-        height: $life.height(),
-        cellSize: 10,
-    });
-    life.init();
+        var $life = $('#life');
+        $life.width($hero.outerWidth()).height($hero.outerHeight());
+
+        var life = new Life({
+            elt: '#life',
+            width: $life.width(),
+            height: $life.height(),
+            cellSize: 10
+        });
+        life.init();
+    };
+
+    setBG();
+
+    $(window).resize(setBG);
+
 
 });

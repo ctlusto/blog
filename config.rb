@@ -32,6 +32,8 @@ end
 
 page "/feed.xml", layout: false
 
+page "/index.html", :layout => "home"
+
 ###
 # Compass
 ###
