@@ -17,5 +17,8 @@ gem "bitters"
 gem "bourbon"
 gem "neat"
 
+# Syntax highlighting
+gem "middleman-syntax"
+
 # For article summaries
 # gem "nokogiri"
