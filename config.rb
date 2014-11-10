@@ -95,7 +95,11 @@ set :images_dir, 'images'
 
 set :haml, { :ugly => true, :format => :html5 }
 
+set :markdown_engine, :kramdown
+
 set :markdown, :fenced_code_blocks => true, :smartypants => true
+
+activate :syntax
 
 # Each post gets compiled as the index.html file in its own directory, for prettier URLs
 activate :directory_indexes
