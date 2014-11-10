@@ -1,0 +1,10 @@
+%header.navigation
+    .navigation-wrapper
+        %a.logo{ :href => "/" }
+            %img{ :src => "/custom_assets/pi.svg" }
+        %a.navigation-menu-button#js-mobile-menu{ :href => "" } MENU
+        .nav
+            %ul#navigation-menu
+                %li.nav-link= link_to "Blog", "#"
+                %li.nav-link= link_to "Desmos Tutorials", "/desmos/index.html"
+                %li.nav-link= link_to "About", "/about.html"
