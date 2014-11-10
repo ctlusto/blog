@@ -4,12 +4,12 @@ body {
 }
 
 #main {
-  position: relative;
   @include outer-container;
-  margin-bottom: em(50);
+  margin: em(50) auto;
   background-color: #fff;
   padding: em(50) em(100);
   box-shadow: 0 2px 4px darken($base-background-color, 10);
+  max-width: em(900);
 
   h1 {
     margin-bottom: em(10);

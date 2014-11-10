@@ -1,0 +1,27 @@
+!!!
+%html
+    %head
+        %meta{ :charset => "utf-8" }
+        %title= "{math pun}"
+        = feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "Atom Feed"
+        = stylesheet_link_tag "all"
+        = stylesheet_link_tag "http://fonts.googleapis.com/css?family=PT+Sans"
+        - if current_article and current_article.data.custom_css
+            = stylesheet_link_tag "/custom_assets/#{current_article.data.custom_css}.css"
+        - third_parties = {"desmos" => "https://www.desmos.com/api/v0.4/calculator.js?apiKey=dcb31709b452b1cf9dc26972add0fda6","d3" => "/custom_assets/d3.min.js"}
+
+    %body
+        = partial "partials/nav"
+        #main{ :role => "main" }
+            = yield
+
+
+        = javascript_include_tag "all"
+        - if current_article && current_article.data.custom_js
+            = javscript_include_tag "/custom_assets/#{current_article.data.custom_js}.js"
+        - if current_page && current_page.data.third_party_tools
+            - current_page.data.third_party_tools.each do |tool|
+                = javascript_include_tag third_parties[tool]
+        - if current_page && current_page.data.custom_js
+            = javascript_include_tag "/custom_assets/#{current_page.data.custom_js}.js"
+

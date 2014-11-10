@@ -26,13 +26,15 @@ activate :blog do |blog|
 
   # Enable pagination
   blog.paginate = true
-  blog.per_page = 9
+  blog.per_page = 12
   # blog.page_link = "page/{num}"
 end
 
 page "/feed.xml", layout: false
 
 page "/index.html", :layout => "home"
+
+page "/output/index.html", :layout => "bloglist"
 
 ###
 # Compass

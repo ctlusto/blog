@@ -1,0 +1,24 @@
+.blog-banner {
+    @include outer-container;
+    max-width: em(700);
+
+    img {
+        display: block;
+        width: 85px;
+        margin: em(50) auto em(10);
+    }
+}
+
+.blog-title,
+.byline {
+    text-align: center;
+}
+
+.byline {
+    color: darken($base-border-color, 20);
+    margin-bottom: em(50);
+}
+
+.article-date {
+    color: darken($base-border-color, 20);
+}
