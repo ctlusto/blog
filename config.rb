@@ -38,6 +38,8 @@ page "/output/index.html", :layout => "bloglist"
 
 page "/desmos/index.html", :layout => "desmos"
 
+page "/about/index.html", :layout => "about"
+
 ###
 # Compass
 ###

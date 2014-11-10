@@ -1,4 +1,12 @@
-#about-pic {
-    width: 200px;
-    border-radius: 10px;
+.about-description {
+    @include outer-container;
+    margin-bottom: em(50);
+    max-width: em(700);
+
+    img {
+        display: block;
+        margin: 0 auto;
+        width: 200px;
+        border-radius: 5px;
+    }
 }

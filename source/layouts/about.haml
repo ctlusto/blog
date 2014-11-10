@@ -1,0 +1,29 @@
+!!!
+%html
+    %head
+        %meta{:charset => "utf-8"}
+        %title {math pun}
+        =stylesheet_link_tag "all"
+    %body
+        =partial "partials/nav"
+
+        .blog-banner
+            %img{ :src => "/images/identity.svg" }
+            %h1.blog-title About Me
+            %p.byline 
+                %em Hello, world!
+            %hr
+
+        .about-description
+            %p I'm currently a mathematical apologist and curriculum developer at <a href="http://mathalicious.com">Mathalicious</a>, a fantastic little company that's rewriting middle and high school math around real-world topics and helping to morph students' daily experiences with math into daily experiences with the <em>world</em>, through math. Before that I taught <a href="http://slpschools.org">high school in Minneapolis</a> for a little while. And before <em>that</em> I exploded stuff professionally for the Marine Corps. I occasionally write tidbits about teaching, math, teaching math, and coding for the purpose of teaching math. I'm also an enthusiastic <a href="http://twitter.com/hashtag/mtbos?src=hash">#MTBoS</a> participant<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup> on Twitter as <a href="http://twitter.com/lustomatical">@Lustomatical</a>.
+
+            %p This is what I look like when I'm holding a tiny frog, which I think sums up several important aspects of my personality in a way words can't:
+
+            %img{ :src => "/images/about_pic.jpeg" }
+
+            %hr
+
+            .footnotes
+                %ol
+                    %li#fn:1
+                        %p Descended from the Latin <em>participare<em> and meaning, literally, "sharing in." I think that's nice. The concept of participation as a personal goal gets rather a lot of abuse &mdash; insert here all sorts of publicly-fashionable handwringing over Millenial coddling, youth soccer trophies, etc. &mdash; but in its bones it's really a lovely idea. <a href="#fnref:1" class="reversefootnote">&#8617;</a>
