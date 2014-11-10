@@ -18,4 +18,4 @@ gem "bourbon"
 gem "neat"
 
 # For article summaries
-gem "nokogiri"
+# gem "nokogiri"
