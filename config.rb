@@ -112,6 +112,12 @@ configure :build do
   # Minify Javascript on build
   activate :minify_javascript
 
+  # Use production Disqus shortname
+  activate :disqus do |d|
+    # d.shortname = "mathpun"
+    d.shortname = nil
+  end
+
   # Enable cache buster
   # activate :asset_hash
 
@@ -120,4 +126,10 @@ configure :build do
 
   # Or use a different image path
   # set :http_prefix, "/Content/images/"
+end
+
+configure :development do
+  activate :disqus do |d|
+    d.shortname = "mathpun-dev"
+  end  
 end

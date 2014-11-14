@@ -20,5 +20,8 @@ gem "neat"
 # Syntax highlighting
 gem "middleman-syntax"
 
+# Disqus Comments
+gem "middleman-disqus"
+
 # For article summaries
 # gem "nokogiri"
