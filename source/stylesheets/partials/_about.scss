@@ -1,7 +1,8 @@
 .about-description {
     @include outer-container;
     margin-bottom: em(50);
-    max-width: em(700);
+    max-width: em(800);
+    padding: 0 em(50);
 
     img {
         display: block;

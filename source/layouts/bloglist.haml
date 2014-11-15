@@ -23,7 +23,7 @@ per_page: 12
             - page_articles.each_with_index do |article, i|
                 %h4= link_to article.title, article
                 %p.article-summary= article.data.summary
-                %p.article-date= article.date.strftime('%B %e, %Y');
+                / %p.article-date= article.date.strftime('%B %e, %Y');
                 %hr
 
             - if paginate && num_pages > 1

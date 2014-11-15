@@ -24,7 +24,7 @@ per_page: 12
                 - if article.data.category == 'desmos'
                     %h4= link_to article.title, article
                     %p.article-summary= article.data.summary
-                    %p.article-date= article.date.strftime('%B %e, %Y');
+                    / %p.article-date= article.date.strftime('%B %e, %Y');
                     %hr
 
             - if paginate && num_pages > 1

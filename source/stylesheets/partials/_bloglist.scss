@@ -1,6 +1,7 @@
 .blog-banner {
     @include outer-container;
-    max-width: em(700);
+    max-width: em(800);
+    padding: 0 em(50);
 
     img {
         display: block;
