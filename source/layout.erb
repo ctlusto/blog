@@ -26,9 +26,6 @@
     </div>
 
     <%= javascript_include_tag "all" %>
-    <% if current_article && current_article.data.custom_js %>
-      <script src=<%= "/custom_assets/#{current_article.data.custom_js}.js" %>></script>
-    <% end %>
 
     <% if current_page && current_page.data.third_party_tools %>
       <% current_page.data.third_party_tools.each do |tool| %>

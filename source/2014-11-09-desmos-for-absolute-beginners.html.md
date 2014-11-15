@@ -4,13 +4,24 @@ date: 2014-11-09 18:59 UTC
 tags:
 category: desmos
 summary: If can't even set the clock on your microwave, here's where to start.
+third_party_tools:
+  - desmos
+custom_js: desmos_assets/desmos-beginning
+custom_css: desmos_assets/desmos-beginning
 ---
 
 # The Desmos API for Absolute Beginners
 
 I mean it. Absolute beginners welcome. This is a judgment-free zone.[^jfz]
 
-As is legally required in the genre of programming tutorials, we're going to do the Desmos version of [`Hello, world!`](http://en.wikipedia.org/wiki/%22Hello,_world!%22_program). That's doubly-great news for us because (1) like any respectable HW program, it's incredibly simple to run, and (2) *unlike* most HW programs, this one's going to do something much more interesting than print `Hello, world!` to your screen.
+As is legally required in the genre of programming tutorials, we're going to do the Desmos version of [`Hello, world!`](http://en.wikipedia.org/wiki/%22Hello,_world!%22_program). That's doubly-great news because (1) like any respectable HW program, it's incredibly simple to run, and (2) *unlike* most HW programs, this one's going to do something much more interesting than print `Hello, world!` to your screen. The video runs through the whole process in one shot, and the post goes through the process step-by-step. Use one or both.
+
+###### &sect; TL;DR
+<div class="video">
+    <div class="video-wrapper">
+        <iframe class="vimeo" src="//player.vimeo.com/video/111737260" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+    </div>
+</div>
 
 ###### &sect; Ploughing the Field
 
@@ -26,7 +37,7 @@ Open any program that can create a plaintext file[^editor] so that we can write 
         <title>Hello, Desmos!</title>
     </head>
     <body>
-        <div id="calculator" style="width: 300px; height: 300px;"></div>
+        <div id="calculator" style="width: 900px; height: 500px;"></div>
     </body>
 </html>
 ~~~
@@ -48,7 +59,7 @@ We're going to write a little bit of Javascript in a minute, but it's going to r
         <script src="https://www.desmos.com/api/v0.4/calculator.js?apiKey=dcb31709b452b1cf9dc26972add0fda6"></script>
     </head>
     <body>
-        <div id="calculator" style="width: 300px; height: 300px;"></div>
+        <div id="calculator" style="width: 900px; height: 500px;"></div>
     </body>
 </html>
 ~~~
@@ -66,7 +77,7 @@ Okay, now it's time for `Hello, world!` We're going to use another set of `<scri
         <script src="https://www.desmos.com/api/v0.4/calculator.js?apiKey=dcb31709b452b1cf9dc26972add0fda6"></script>
     </head>
     <body>
-        <div id="calculator" style="width: 300px; height: 300px;"></div>
+        <div id="calculator" style="width: 900px; height: 500px;"></div>
         <script>
             var myCalculator = Desmos.Calculator(document.getElementById('calculator'));
         </script>
@@ -74,7 +85,9 @@ Okay, now it's time for `Hello, world!` We're going to use another set of `<scri
 </html>
 ~~~
 
-Save your file, refresh your browser, and boom: you've got your very own Desmos calculator. You can input expressions, make lists, play with sliders &mdash; all the cool stuff you can normally do on the Desmos app &mdash; on your own personal web page.
+Save your file, refresh your browser, and boom: you've got your very own Desmos calculator. You can input expressions, make lists, play with sliders &mdash; all the cool stuff you can normally do on the Desmos app &mdash; on your own personal web page:
+
+<div id="real-calc" class="blog-calc" style="width: 100%; height: 400px;"></div>
 
 Once you've got a calculator instance set up on a page, there are all kinds of interesting things you can do with it. Over the course of this tutorial series we'll take a look at a bunch of them. But for now, go grab a drink and pat yourself on the back.
 
