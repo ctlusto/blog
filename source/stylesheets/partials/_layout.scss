@@ -38,6 +38,10 @@ h6 {
   font-size: $h1-font-size * 1.3;
 }
 
+.comments {
+  @include outer-container;
+}
+
 // Pagination stuff
 .pagination {
   $pagination-border-color: $base-border-color;
