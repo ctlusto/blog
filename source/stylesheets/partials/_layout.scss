@@ -7,7 +7,10 @@ body {
   @include outer-container;
   margin: em(50) auto;
   background-color: #fff;
-  padding: em(50) em(100);
+  padding: em(50) em(50);
+  @include media($large-screen) {
+    padding: em(50) em(100);
+  }
   box-shadow: 0 2px 4px darken($base-background-color, 10);
   max-width: em(900);
 
@@ -40,6 +43,8 @@ h6 {
 
 .comments {
   @include outer-container;
+  max-width: em(1000);
+  padding: 0 em(50);
 }
 
 // Pagination stuff
