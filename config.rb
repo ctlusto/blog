@@ -40,6 +40,8 @@ page "/desmos/index.html", :layout => "desmos"
 
 page "/about/index.html", :layout => "about"
 
+page "/comment-policy/index.html", :layout => "commenting"
+
 ###
 # Compass
 ###

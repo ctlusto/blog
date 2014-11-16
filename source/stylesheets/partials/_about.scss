@@ -1,4 +1,4 @@
-.about-description {
+.description {
     @include outer-container;
     margin-bottom: em(50);
     max-width: em(800);
@@ -10,4 +10,8 @@
         width: 200px;
         border-radius: 5px;
     }
+}
+
+.comment-bullet strong {
+    color: darken(#f8a45e, 10);
 }
