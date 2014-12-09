@@ -11,7 +11,7 @@ I'm [on record][1] claiming that people would stop freaking out about the Common
 
 It's hard to muster empathy for a position that opposes, e.g., having students ["look for and make use of structure"][4] in their work, or to reconstruct the neural state that produces disgust in response to an eighth-grader learning that [parallel lines are taken to parallel lines][5] under rigid transformation. At nose-altitude, the standards seem as though they ought to be either (in the case of the [SMP][6]) uncontroversially representative of sound mathematical thinking, or (in the case of the [content standards][7]) so mundane as to be almost invisible to anyone not deeply invested in the nuances of domain-specific pedagogy.[^1]
 
-But we're[^2] making a category mistake, and it's eroding the opportunity for productive conversation.
+But we're[^2] making a category mistake, and it's eroding the opportunity for productive conversation. We need to muster empathy &mdash; better and more often.
 
 ###### &sect; Lossy Compression
 
@@ -23,11 +23,11 @@ When we started having conversations about the CCSS-M, we were free to argue abo
 
 But then one day we looked up from our desks to find that the standards had become a Thing.  Which, on its face, isn't necessarily so awful. It seems fair that Things ought to be subject to debate in the same way things are. Except that now it's getting harder and harder to figure out who the hell is talking about what, and basically everyone is losing his or her mind.
 
-And so here, I think, is the basis for much of the current exasperation: the pro- and anti-CCSS camps are effectively speaking  different languages. And, to make an already difficult situation worse, the superficial similarity between the two hides their distinction. After all, the language of things and the language of Things differ only in degree of literality &mdash; which is to say only in the minds of speaker and listener.
+And so here, I think, is the basis for much of the current exasperation: the pro- and anti-CCSS camps are effectively speaking  different languages. And to make an already difficult situation worse, the superficial similarity between the two hides their distinction. After all, the language of things and the language of Things differ only in degree of literality &mdash; which is to say only in the minds of speaker and listener.
 
 ###### &sect; *Exempli Gratia*
 
-Here's one pseudorandom example to help illustrate the multivalence of our joint misery.  Say you[^4] have posted a picture of a multi-digit multiplication problem that someone has solved using partial products, and you've included the following caption:
+Here's just one example to help illustrate the multivalence of our joint misery.  Say you[^4] have posted a picture of a multi-digit multiplication problem that someone has solved using partial products, and you've included the following caption:
 
 >*What the fuck?!? This is why we need to #StopCommonCore!!!!!!1*
 
@@ -35,11 +35,18 @@ And now I, as someone who takes issue with your point(s) and wants to engage, mu
 
 On what level does your *WTF* exist? It's possible that it's rooted in genuine mathematical confusion, in which case the mostly likely causes are (1) a failure to recognize an application of the Distributive Property, or (2) the employment of a strategy other than the standard algorithm, which of course you've found to be supremely efficient in your own personal life. If (1), then I'm forced to rather delicately suggest that you &mdash; possibly desite several technical graduate degrees &mdash; misunderstand some foundational mathematics, and that this is precisely the kind of blind spot the CCSS-M and their focus on conceptual depth aim to help your child avoid. If (2), then I have to mount a fairly subtle assault on the standard algorithm's harmful obviation of place value, while simultaneously proposing that is (a) "efficient" algorithms aren't unconditionally so,[^worst-case] and (b) computational efficiency certainly isn't the principal goal of math education in the first place.[^5] 
 
-Since (1) is also at least an implicit endorsement of (2), in either case I'm compelled to mention that the standard algorithm is in fact [*the only one explicitly required*][8] by the CCSS-M, which means your kid's going to see plenty of it. And, lest we lost sight of the actual learners in the scenario, I have to point out that your own facility with the standard algorithm in no way indicates how students presented this novel problem would normally begin to cope with it, so maybe let's explore some cognitively-informed alternatives.[^6]
+Since (1) is also at least a tacit endorsement of (2), in either case I'm compelled to mention that the standard algorithm is in fact [*the only one explicitly required*][8] by the CCSS-M, which means your kid's going to see plenty of it. And, lest we lost sight of the actual learners in the scenario, I have to point out that your own facility with the standard algorithm in no way indicates how students presented this novel problem would normally begin to cope with it, so maybe let's explore some cognitively-informed alternatives.[^6]
 
 Okay, so that's bad enough. It's all very tedious and based on error-prone inference, but at least it's a thing-level response to a thing-level complaint. But what if your *WTF* instead exists on the Thing plane? Then your language is actually a coded argument about the CCSS-M-as-symbol, which in your mind likely represents some subset of the following: corporate cronyism, federal overreach, imposed parental obsolescence, religious intolerance, and, depending on your particular bent, either intellectual elitism or vacuity.
 
 Now we're both in a terrible position. For one, nothing I have to say about any of those things[^things] will affect you in the slightest. Worse, if I misinterpret the intent of your symbolic language and respond instead to its surface content &mdash; which is, after all, my wheelhouse &mdash; any thing-level response I might give is going to sound patronizing or deflective or willfully obtuse. And bingo: we officially have ourselves an unproductive exchange. This is the cringe-inducing case in which we find ourselves too often, especially in the bowels of Twitter or the Comments Section, where nuance gets burned for server fuel.
+
+###### &sect; A Radical Experiment
+In normal conversation, we concern ourselves with language and empathy gets thrown in *gratis*. Language, after all, is the best empathy engine on the planet. I can generate a few pressure waves, or arrange a little pigment, or toss a handful of bits against a photoreactive screen, and almost instantly you're able to create a low-fi copy of my cognitive state inside your own brain.[^access] Try to imagine another way that could happen. In normal conversation, language is borderline magic.
+
+But in the case of symbolic language, empathy gets filtered through a layer of abstraction that prevents the kind of access we generally take for granted. With that in mind,[^mind] I'd like to propose an experiment in two parts: (1) a thought experiment in the usual sense of the term, and then (2) an actual, physical experiment that mostly involves those same kinds of thoughts.
+
+Imagine for a moment that you
 
 ###### &sect; Salvage
 
@@ -77,6 +84,8 @@ If you consider the CCSS-M as a literary document, you can divide the pro- and a
 
 [^things]: And those *are* lower-case-t things, even though they're in some sense larger than the CCSS-M. Importance doesn't automatically confer Thinghood. Maybe it'll help to think of Things as mappings from one set of things to another, in much the same way random variables aren't really variables, but functions.
 
-[^worst-case]: And sometimes, in pathological situations that may or may not be uncommon, they can be spectacularly bad. Think, for instance, just how inefficient the standard subtraction algorithm is for a problem like 1003 &mdash; 7.
+[^worst-case]: And sometimes, in pathological situations that may or may not be uncommon, they can be spectacularly bad. Think, for instance, just how inefficient the standard subtraction algorithm is for a problem like 1003 &ndash; 7.
 
+[^mind]: ...so to speak...
 
+[^access]: For instance, think about the intimate access to my mind that you now have just from reading this essay.
