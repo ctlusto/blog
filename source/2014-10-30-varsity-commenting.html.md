@@ -5,7 +5,7 @@ tags:
 summary: My thoughts on how to up our commenting game.
 ---
 
-# Varsity Commenting
+# ~ Varsity Commenting ~
 A blog benefits from a healthy Comments Section (presupposing, for a moment, that such thing exists). In that spirit, here are some suggestions for the maintenance of our community health. The actual rules of the road can be found over in the [Comment Policy](/comment-policy). These are just a few gentler suggestions that go beyond minimum expectations.
 
 ###### &sect; Focus

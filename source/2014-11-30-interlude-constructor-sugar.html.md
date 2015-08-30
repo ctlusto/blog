@@ -6,7 +6,7 @@ category: desmos
 summary: If you're interested in some nuances of constructors in Javascript, this is for you.
 ---
 
-# Interlude - Constructor Sugar
+# ~ Interlude - Constructor Sugar ~
 If you were paying attention in the last post, you may have noticed something slightly weird and interesting about the way we called the Desmos contructor:
 
 ~~~ javascript

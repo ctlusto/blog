@@ -10,7 +10,7 @@ custom_js: desmos_assets/desmos-beginning
 custom_css: desmos_assets/desmos-beginning
 ---
 
-# The Desmos API for Absolute Beginners
+# ~ The Desmos API for Absolute Beginners ~
 
 I mean it. Absolute beginners welcome. This is a judgment-free zone.[^jfz]
 
