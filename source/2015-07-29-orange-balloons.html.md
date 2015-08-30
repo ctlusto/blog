@@ -13,7 +13,7 @@ disqus_url: http://chrislusto.com/orange-ballons/
 ###### &sect; Memories
 I only really remember three things that happened in Miss Elmer’s[^pseudo] first-grade classroom.
 
-I remember the time Nicole Tobin stabbed me in the hand with a pencil&mdash;though, to be fair, one’s first shanking is extremely low-hanging fruit, memorywise.  I still have a tiny red blemish at the base of my right thumb, on the part that’s famous in culinary circles for having the same firmness as a properly rare steak.  What I did to provoke her I can't recall.
+I remember the time Nicole Tobin[^real] stabbed me in the hand with a pencil&mdash;though, to be fair, one’s first shanking is extremely low-hanging fruit, memorywise.  I still have a tiny red blemish at the base of my right thumb, on the part that’s famous in culinary circles for having the same firmness as a properly rare steak.  What I did to provoke her I can't recall.
 
 <img src="/images/thumb.jpg">
 
@@ -81,3 +81,4 @@ But it's worth remembering that your students will remember. What, exactly, is u
 [^adult]: Well, grownup-adjacent person.
 [^old]: I don't care that you're 22.  That's plenty old enough to be old by comparison.
 [^interaction]: Even Miss Elmer. I don't remember, but I'm statistically certain she was kind to me. Probably often.
+[^real]: Totally her real name. Someone needs to track Nicole Tobin down before she strikes again. I only hope we're not too late.
