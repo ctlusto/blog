@@ -3,6 +3,9 @@ title: Varsity Commenting
 date: 2014-10-30 14:15 UTC
 tags:
 summary: My thoughts on how to up our commenting game.
+disqus_identifier: /varsity-commenting/
+disqus_title: Varsity Commenting
+disqus_url: http://chrislusto.com/varsity-commenting/
 ---
 
 # ~ Varsity Commenting ~

@@ -8,20 +8,16 @@ third_party_tools:
   - desmos
 custom_js: desmos_assets/desmos-beginning
 custom_css: desmos_assets/desmos-beginning
+disqus_identifier: /desmos/desmos-for-absolute-beginners/
+disqus_title: The Desmos API for Absolute Beginners
+disqus_url: http://chrislusto.com/desmos/desmos-for-absolute-beginners/
 ---
 
 # ~ The Desmos API for Absolute Beginners ~
 
 I mean it. Absolute beginners welcome. This is a judgment-free zone.[^jfz]
 
-As is legally required in the genre of programming tutorials, we're going to do the Desmos version of [`Hello, world!`](http://en.wikipedia.org/wiki/%22Hello,_world!%22_program). That's doubly-great news because (1) like any respectable HW program, it's incredibly simple to run, and (2) *unlike* most HW programs, this one's going to do something much more interesting than print `Hello, world!` to your screen. The video runs through the whole process in one shot, and the post goes through the process step-by-step. Use one or both.
-
-###### &sect; TL;DR
-<div class="video">
-    <div class="video-wrapper">
-        <iframe class="vimeo" src="//player.vimeo.com/video/111737260" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-    </div>
-</div>
+As is legally required in the genre of programming tutorials, we're going to do the Desmos version of [`Hello, world!`](http://en.wikipedia.org/wiki/%22Hello,_world!%22_program). That's doubly-great news because (1) like any respectable HW program, it's incredibly simple to run, and (2) *unlike* most HW programs, this one's going to do something much more interesting than print `Hello, world!` to your screen.
 
 ###### &sect; Ploughing the Field
 
@@ -56,7 +52,7 @@ We're going to write a little bit of Javascript in a minute, but it's going to r
 <html>
     <head>
         <title>Hello, Desmos!</title>
-        <script src="https://www.desmos.com/api/v0.4/calculator.js?apiKey=dcb31709b452b1cf9dc26972add0fda6"></script>
+        <script src="https://www.desmos.com/api/v0.5/calculator.js?apiKey=dcb31709b452b1cf9dc26972add0fda6"></script>
     </head>
     <body>
         <div id="calculator" style="width: 900px; height: 500px;"></div>
@@ -74,7 +70,7 @@ Okay, now it's time for `Hello, world!` We're going to use another set of `<scri
 <html>
     <head>
         <title>Hello, Desmos!</title>
-        <script src="https://www.desmos.com/api/v0.4/calculator.js?apiKey=dcb31709b452b1cf9dc26972add0fda6"></script>
+        <script src="https://www.desmos.com/api/v0.5/calculator.js?apiKey=dcb31709b452b1cf9dc26972add0fda6"></script>
     </head>
     <body>
         <div id="calculator" style="width: 900px; height: 500px;"></div>

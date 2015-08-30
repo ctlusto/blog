@@ -4,6 +4,7 @@ date: 2014-11-30 17:26 UTC
 tags:
 category: desmos
 summary: If you're interested in some nuances of constructors in Javascript, this is for you.
+published: false
 ---
 
 # ~ Interlude - Constructor Sugar ~

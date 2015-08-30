@@ -3,6 +3,9 @@ title: Orange Balloons
 date: 2015-07-29 23:13 UTC
 tags:
 summary: What will your students remember about your class?
+disqus_identifier: /orange-balloons/
+disqus_title: Orange Balloons
+disqus_url: http://chrislusto.com/orange-ballons/
 ---
 
 # ~ Orange Balloons ~
@@ -65,7 +68,7 @@ I'm very fortunate; my story has a happy ending. I went on to have many wonderfu
 
 And last month, Connie Hackett became Connie Lusto.
 
-[WEDDING PICTURE TK]
+<img src="/images/first_dance.png">
 
 But every interaction you have with a student has the potential to shape her memory of you forever. Every conversation is an all-in gamble on your legacy in the eyes of one other human being. You won't be perfect. I won't either.
 

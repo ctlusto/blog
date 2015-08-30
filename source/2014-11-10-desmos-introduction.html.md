@@ -4,9 +4,12 @@ date: 2014-11-10 18:17 UTC
 tags: desmos
 category: desmos
 summary: How Desmos accidentally made me a web developer. And why that might be good news for you.
+disqus_identifier: /desmos/desmos-introduction/
+disqus_title: Desmos Introduction
+disqus_url: http://chrislusto.com/desmos/desmos-introduction/
 ---
 
-# Desmos Introduction
+# ~ Desmos API Introduction ~
 
 About a year ago my job at [Mathalicious](http://mathalicious.com) took a bit of an unexpected turn. Up to that point all of our lessons came packaged with what we called a "Teacher Presentation," which was really just an embedded collection of PowerPoint slides.
 

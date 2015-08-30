@@ -26,6 +26,7 @@
     padding: 2em;
     border-right: $grid-item-border;
     border-bottom: $grid-item-border;
+    border-top: $grid-item-border;
     cursor: pointer;
 
     @include media($large-screen) {
