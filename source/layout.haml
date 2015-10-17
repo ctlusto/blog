@@ -9,6 +9,7 @@
         - if current_article and current_article.data.custom_css
             = stylesheet_link_tag "/custom_assets/#{current_article.data.custom_css}.css"
         - third_parties = {"desmos" => "https://www.desmos.com/api/v0.4/calculator.js?apiKey=dcb31709b452b1cf9dc26972add0fda6","d3" => "/custom_assets/d3.min.js"}
+        = partial "partials/tracking"
 
     %body
         = partial "partials/nav"
