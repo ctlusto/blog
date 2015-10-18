@@ -1,6 +1,6 @@
 ---
 title: The Desmos API for Absolute Beginners
-date: 2014-11-09 18:59 UTC
+date: 2014-11-10 18:59 UTC
 tags:
 category: desmos
 summary: If can't even set the clock on your microwave, here's where to start.

@@ -1,6 +1,6 @@
 ---
 title: Desmos Introduction
-date: 2014-11-10 18:17 UTC
+date: 2014-11-09 18:17 UTC
 tags: desmos
 category: desmos
 summary: How Desmos accidentally made me a web developer. And why that might be good news for you.
