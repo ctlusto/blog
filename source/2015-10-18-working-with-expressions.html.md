@@ -2,7 +2,7 @@
 title: Working with Expressions
 date: 2015-10-18 01:54 UTC
 category: desmos
-summary: The basics of working with expressions through the API.
+summary: The basics of working with expressions through the Desmos API.
 disqus_identifier: /desmos/working-with-expressions/
 disqus_title: The Desmos API for Absolute Beginners
 disqus_url: http://chrislusto.com/desmos/working-with-expressions/
