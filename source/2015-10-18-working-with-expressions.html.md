@@ -258,7 +258,7 @@ calc.setExpression({
 
 Figuring out when you do or don't have to use LaTeX commands by double-escaping characters is a nontrivial exercise.[^reader] It'll involve a lot of trial and (mostly) error and broken expressions. But there *is* a way to peek at the answer key when you're working on something particularly complicated that makes you want to punch your laptop in its retina display.
 
-On the web app, Desmos exposes a global reference to the main calculator object, called `Calc`, that you can poke at from the console. And there's a method called `.getState()` &mdadsh; the subject of some future writing &mdash; that allows you to inspect the properties of expression objects. So just head over to the web app and type whatever hideous thing you want into the the first spot in the expressions list of a brand new calculator:
+On the web app, Desmos exposes a global reference to the main calculator object, called `Calc`, that you can poke at from the console. And there's a method called `.getState()` &mdash; the subject of some future writing &mdash; that allows you to inspect the properties of expression objects. So just head over to the web app and type whatever hideous thing you want into the the first spot in the expressions list of a brand new calculator:
 
 <img src="/images/complicated_expression.png">
 
