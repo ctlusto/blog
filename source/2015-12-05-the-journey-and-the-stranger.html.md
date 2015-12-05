@@ -1,7 +1,7 @@
 ---
 title: The Journey and the Stranger
 date: 2015-12-05 16:23 UTC
-summary: What I learned in three years of writing curricular materials.
+summary: The double-life of a teacher and military veteran.
 disqus_identifier: /the-journey-and-the-stranger/
 disqus_title: Lessons for Other People
 disqus_url: http://chrislusto.com/the-journey-and-the-stranger/
