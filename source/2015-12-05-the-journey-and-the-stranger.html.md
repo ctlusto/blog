@@ -34,3 +34,7 @@ But as the clip went on, they spent more and more time focusing on my Marines &m
 
 That video is ten years old now. I live a half-hour from where I grew up and teach math in the same building where I learned a good bit of it. Zach is back home in Illinois. I don’t know where Ben ended up. Marty is gone. We’re all on the far side of a journey we started a long time ago, standing at the edges of something or other. Facing out.
 
+<hr/>
+
+Note: A different version of this piece originally appeared [on the PBS NewsHour blog](http://www.pbs.org/newshour/updates/marines-perspective-students-astonished-ditch-job-required-explode-things/).
+
