@@ -13,7 +13,7 @@ disqus_url: http://chrislusto.com/lessons-for-other-people/
 For just about three years I wrote [math lessons](http://mathalicious.com/) that I wasn't sure I'd ever teach.  It's a strange exercise, writing lessons for other people. The big experience we think of as INSTRUCTION reduces, at the tactical level, to a series of conversations among a particular group of human beings in various states of mathematical maturity. Trying to facilitate those conversations without immediate access to the relevant humans is hard.<sup>[<a href="https://xkcd.com/285/">citation needed</a>]</sup> It made me uncomfortable, in the best and worst ways, personally and professionally. It also provided me an interesting view of the curricular landscape. After a humiliating number of failed attempts to catalog my time in deep and frustrating contemplation of what curriculum is and how it actually functions, here are some things that I currently think. I think.
 
 ###### &sect; Creep and Retreat
-There's a phenomenon in consumer economics known as [*feature creep*](https://en.wikipedia.org/wiki/Feature_creep): the tendency for products to accumulate new features beyond the point of usefulness, desirablity, and sometimes sanity. Your remote control is probably an instructive example. I count 61 buttons on mine, excluding those with multiple degrees-of-freedom or combinations involving the `SHIFT` key. I'm not certain how many I actually use, but considerably fewer than that. For sure.
+There's a phenomenon in consumer economics known as [*feature creep*](https://en.wikipedia.org/wiki/Feature_creep): the tendency for products to accumulate new features beyond the point of usefulness, desirability, and sometimes sanity. Your remote control is probably an instructive example. I count 61 buttons on mine, excluding those with multiple degrees-of-freedom or combinations involving the `SHIFT` key. I'm not certain how many I actually use, but considerably fewer than that. For sure.
 
 I own this monstrosity because there's often a significant gap between what we actually want or need a product to do and what we require of a product in order for it to entice us in the marketplace. If you ask professional DVD remote engineer to design a DVD remote, there's a good chance you'll end up with something nuts. A professional DVD remote engineer must satisfy not only your actual consumer needs, but also your *perceived* consumer needs &mdash; needs that are sometimes created right there on the spot for the sole purpose of being immediately satisfied.[^murrica] And so you end up with a contraption that lets you watch your movies backwards at three-quarter speed with Esperanto subtitles rotated 90&deg; clockwise. Because the professional DVD remote engineer knows, from experience, that given the choice between *that* contraption and one that only lets you watch your movies backwards at three-quarter speed with Esperanto subtitles in *unrotated* text,[^sucker] you'll pick the first one nine times out of ten. Especially if they're right next to each other on store shelves. Which, of course, they are.
 
@@ -60,7 +60,7 @@ Smaller, shall we say *boutique*, lessons are less overwhelming. Like maybe Matt
 It would be great if we could find a way to combine centralized support with community contribution for open curricular resources.
 
 ###### &sect; MatHub
-I'm about to make a suggestion that's wrong in important ways, but probably right in general. We need [GitHub](https://github.com/) for math curriculum.
+I'm about to make a suggestion that's wrong in specific and important ways, but probably right in general. We need [GitHub](https://github.com/) for math curriculum.
 
 To say that the community repository model has done wonders for open source software is a massive understatement. To what extent that success translates to curriculum I'm obviously unsure, but I have randomly-ordered reasons to suspect it's appreciable:
 
@@ -79,7 +79,7 @@ There are certainly many important obstacles to a system like this. Somebody sti
 
 The implementation details are, shall we say, unresolved.
 
-But here are some things that *aren't* obstacles, and which give me hope: the technological infrastructure for massively distributed, real-time collaborative systems; [resources](https://www.illustrativemathematics.org/) and [platforms](https://teacher.desmos.com/) for building [rich content](http://mathalicious.com/); or a [large and connected community of thoughtful professionals](https://twitter.com/search?q=%23mtbos&src=typd). With those things in place (and always improving), I have a hard time imagining barriers &mdash; to whatever future &mdash; that are insurmountable.
+But here are some things that *aren't* obstacles: the technological infrastructure for massively distributed, real-time collaborative systems; [resources](https://www.illustrativemathematics.org/) and [platforms](https://teacher.desmos.com/) for building [rich content](http://mathalicious.com/); or a [large and connected community of thoughtful professionals](https://twitter.com/search?q=%23mtbos&src=typd). With those things in place (and always improving), I have a hard time imagining barriers that are insurmountable &mdash; to whatever future. I'm so curious about what that's going to look like.
 
 <hr/>
 <!-- Footnotes -->
