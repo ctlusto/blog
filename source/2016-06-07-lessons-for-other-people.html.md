@@ -5,7 +5,6 @@ summary: What I learned in three years of writing curricular materials.
 disqus_identifier: /lessons-for-other-people/
 disqus_title: Lessons for Other People
 disqus_url: http://chrislusto.com/lessons-for-other-people/
-published: false
 ---
 
 # ~ Lessons for Other People ~
