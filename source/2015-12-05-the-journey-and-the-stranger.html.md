@@ -3,7 +3,7 @@ title: The Journey and the Stranger
 date: 2015-12-05 16:23 UTC
 summary: The double-life of a teacher and military veteran.
 disqus_identifier: /the-journey-and-the-stranger/
-disqus_title: Lessons for Other People
+disqus_title: The Journey and the Stranger
 disqus_url: http://chrislusto.com/the-journey-and-the-stranger/
 ---
 
@@ -37,4 +37,3 @@ That video is ten years old now. I live a half-hour from where I grew up and tea
 <hr/>
 
 Note: A different version of this piece originally appeared [on the PBS NewsHour blog](http://www.pbs.org/newshour/updates/marines-perspective-students-astonished-ditch-job-required-explode-things/).
-
